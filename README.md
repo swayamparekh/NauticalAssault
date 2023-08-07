@@ -1,1 +1,2 @@
 # NauticalAssault
+This is a simple game I built on June 17, 2022 on PyGame over a few days. The game has NPC evil bots that move in randomly generated trigonometric functions that refresh every time they are killed, changing their trajectory and pathing. The bots also shoot at you depending on gamemode, with other functionalities and abilities built in depending on the game mode. Have fun playing!
